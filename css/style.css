@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#Datos{
+    width: 70%;
+    margin: 0 auto;
+    justify-content: space-around; 
+    margin-top: 30px;   
+    margin-bottom: 50px;
+}
+.table{
+    width: 85%;
+    margin: 0 auto;
+    justify-content: space-around;    
+}
+img{
+    width: 150px;
+    height: auto;
+}
+.divBtn{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    background-color: #0c3a56;
+    border: #0c3a56;
+}
+.btn:hover{    
+    background-color: #54aee8;
+    border: #54aee8;
+}
